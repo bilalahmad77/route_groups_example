@@ -1,7 +1,7 @@
 export default function GiveAddress() {
     return (
       <div>
-            I live in Karachi, Pakistan
+            I live in Rawalpindi, Pakistan
       </div>
     )
   }

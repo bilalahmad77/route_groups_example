@@ -6,7 +6,7 @@ export default function GiveName() {
   const router = useRouter();
     return (
       <div>
-            My name is Zia.
+            My name is Bilal.
             <br/>
             <button type="button" onClick={() => router.push('/name/address')}>
               Get Address
